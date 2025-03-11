@@ -1,0 +1,5 @@
+streamlit==1.32.0
+supabase==1.0.3
+SpeechRecognition==3.10.0
+pydub==0.25.1
+python-dotenv==1.0.0 
